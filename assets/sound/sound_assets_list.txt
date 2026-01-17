@@ -1,3 +1,0 @@
-bacteria_muerta.mp3
-disparo.wav
-game_over.wav
